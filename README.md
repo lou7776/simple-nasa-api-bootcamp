@@ -2,7 +2,7 @@
 
 A small web app that shows NASA's Astronomy Picture of the Day for any date you pick. Choose a date, click the button, and get the picture, its title, and the explanation.
 
-**Live Site**: 
+**Live Site**: https://lou7776.github.io/simple-nasa-api-bootcamp/
 
 <img width="1065" height="578" alt="Screenshot 2026-11-12 at 9 18 16 PM" src="https://github.com/user-attachments/assets/34dc0dc5-72a3-448d-bdf8-43131f8d6f5f" />
 
